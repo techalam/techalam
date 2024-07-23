@@ -88,16 +88,10 @@
 </a>&nbsp; 
 <a href="https://github.com/" target="_blank" rel="noreferrer">&nbsp; 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/> 
-</a>&nbsp; 
-<a href="https://en.wikipedia.org/wiki/Version_control" target="_blank" rel="noreferrer">&nbsp; 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Version_control_logo.png/480px-Version_control_logo.png" alt="version_control" width="40" height="40"/> 
-</a>&nbsp; 
+</a>&nbsp;
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer">&nbsp; 
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-</a>&nbsp; 
-<a href="https://en.wikipedia.org/wiki/Unit_testing" target="_blank" rel="noreferrer">&nbsp; 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Unit_Testing.png/1200px-Unit_Testing.png" alt="unit_testing" width="40" height="40"/> 
-</a>&nbsp; 
+</a>&nbsp;  
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">&nbsp; 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/> 
 </a>&nbsp;
