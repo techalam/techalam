@@ -1,5 +1,5 @@
 <div style="background:#161616; color:#fff">
-<h1 align="center" style="color: #fff;">Hi 👋, I'm Faizan Alam</h1>
+<h1 align="center" style="color: #fff; font-size:2em;">Hi 👋, I'm Faizan Alam</h1>
 <h3 align="center" style="color: #fff;">A passionate Frontend developer from India</h3>
 
 <h3 align="left" style="color: #fff;">Connect with me:</h3>
