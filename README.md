@@ -24,6 +24,7 @@
 <a href="https://linkedin.com/in/faizanalam01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="faizanalam01" height="30" width="40" /></a>
 <a href="https://github.com/techalam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="techalam" height="30" width="40" /></a>
 </p>
+<hr>
 
 <h3 align="left">Programming Languages, Libraries and Frameworks</h3>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">&nbsp; 
@@ -53,7 +54,7 @@
 <a href="https://mui.com/" target="_blank" rel="noreferrer">&nbsp; 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="materialui" width="40" height="40"/> 
 </a>&nbsp;
-<br />
+<br /><hr>
 
 <h3 align="left">Web Technologies</h3>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">&nbsp; 
@@ -68,7 +69,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design" target="_blank" rel="noreferrer">&nbsp; 
   <img src="https://public-images.interaction-design.org/literature/articles/materials/flTR2AEh0Xm8QMKevDdSR4x08XS9oDCs2FrMxpjj.jpg" alt="responsiveness" width="40" height="40"/> 
 </a>&nbsp;
-<br />
+<br /><hr>
 
 <h3 align="left">Databases</h3>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">&nbsp; 
@@ -80,7 +81,7 @@
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">&nbsp; 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
 </a>&nbsp;
-<br />
+<br /><hr>
 
 <h3 align="left">Development Tools</h3>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">&nbsp; 
@@ -94,6 +95,7 @@
 </a>&nbsp;  
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">&nbsp; 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/> 
-</a>&nbsp;
+</a>
+<hr>
 
 
