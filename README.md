@@ -1,3 +1,4 @@
+<div style="background:#161616; color:#fff">
 <h1 align="center" style="color: #fff;">Hi 👋, I'm Faizan Alam</h1>
 <h3 align="center" style="color: #fff;">A passionate Frontend developer from India</h3>
 
@@ -72,3 +73,4 @@
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=techalam&show_icons=true&locale=en&layout=compact&theme=dark" alt="techalam" style="border-radius: 10px; backdrop-filter: blur(10px); background: rgba(255, 255, 255, 0.1); padding: 20px; margin-top: 20px;"/></p>
+</div>
