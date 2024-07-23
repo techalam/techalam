@@ -63,19 +63,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/> 
 </a>&nbsp; 
 <a href="https://www.w3schools.com/ajax/" target="_blank" rel="noreferrer">&nbsp; 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Ajax_Logo.png" alt="ajax" width="40" height="40"/> 
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*v3b022s2UAyhVAFLUtzhJg.png" alt="ajax" width="40" height="40"/> 
 </a>&nbsp; 
 <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design" target="_blank" rel="noreferrer">&nbsp; 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Responsive_Design.png" alt="responsiveness" width="40" height="40"/> 
-</a>&nbsp; 
-<a href="https://developer.mozilla.org/en-US/docs/Web/Progressive_Web_Apps" target="_blank" rel="noreferrer">&nbsp; 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Progressive_Web_App.png" alt="pwa" width="40" height="40"/> 
-</a>&nbsp; 
-<a href="https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API" target="_blank" rel="noreferrer">&nbsp; 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Service_Worker.png" alt="service_workers" width="40" height="40"/> 
-</a>&nbsp; 
-<a href="https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API" target="_blank" rel="noreferrer">&nbsp; 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Web_Workers.png" alt="web_workers" width="40" height="40"/> 
+  <img src="https://public-images.interaction-design.org/literature/articles/materials/flTR2AEh0Xm8QMKevDdSR4x08XS9oDCs2FrMxpjj.jpg" alt="responsiveness" width="40" height="40"/> 
 </a>&nbsp;
 <br />
 
